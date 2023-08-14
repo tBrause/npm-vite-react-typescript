@@ -53,8 +53,7 @@
 - public
   - vite.svg
 - sass
-  - \_normalize.scss
-  - style.css
+  - style.scss
 - src
   - main.tsx
   - reset.d.ts
