@@ -1,4 +1,4 @@
-# DEV-JS-Entwicklungsumgebung
+# DEV-JS-TS-Entwicklungsumgebung
 
 ### vite, react, typescript, sass, eslint, postcss, cssnano
 
