@@ -58,6 +58,17 @@
   - main.tsx
   - reset.d.ts
   - vite-env.d.ts
+- .eslintrc.cjs
+- .gitignore
+- index.html
+- package-lock.json
+- package.json
+- postcss.config.cjs
+- prettier.config.cjs
+- README.md
+- tsconfig.json
+- tsconfig.node.json
+- vite.config.js
 
 ## Konfiguration
 
