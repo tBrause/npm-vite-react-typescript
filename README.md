@@ -18,7 +18,7 @@
 
     npm install; npm run build; npm run dev -->
 
-> _Erfolgreich getestet: _
+> _Erfolgreich getestet: 16.08.2023_
 
 ## Bearbeiten
 
