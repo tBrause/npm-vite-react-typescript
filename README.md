@@ -1,6 +1,6 @@
-# DEV-JS-TS-Entwicklungsumgebung
+# DEV-React-TypeScript-Entwicklungsumgebung
 
-### vite, react, typescript, sass, eslint, postcss, cssnano
+### vite, react, typescript, sass, eslint, postcss, cssnano, cjs
 
 ## Installation
 
@@ -18,7 +18,7 @@
 
     npm install; npm run build; npm run dev -->
 
-> _Erfolgreich getestet: 21.03.2023_
+> _Erfolgreich getestet: _
 
 ## Bearbeiten
 
